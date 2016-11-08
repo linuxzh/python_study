@@ -18,3 +18,10 @@ git push -u origin master
 git remote add origin git@github.com:linuxzh/python_study.git
 git push -u origin master
 ```
+
+...修改文件如何提交的过程
+```
+git add REAND.md
+git commit -m "add create repository"
+git push -u origin master
+```
